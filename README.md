@@ -20,7 +20,7 @@ Upon completion of this course, students will be able to:
 ## About Me
 *I am a third-year student at Stevens Institute of Technology. I'm studying electrical engineering and computer science and plan to pursue a master's degree in electrical engineering after my career at Stevens.* \
 \
-[My Linkedin](https://www.linkedin.com/in/owen-deem-069a4a237/)
+[My LinkedIn](https://www.linkedin.com/in/owen-deem-069a4a237/)
 ### Career Interests 
 1. Embedded System Design
 2. Quantum Computing
